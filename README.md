@@ -23,7 +23,6 @@
   
 - Power AntiCheat Ceo (discord.gg/powerac)
 
-<h2> Dev <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://w7.pngwing.com/pngs/604/592/png-transparent-css3-cascading-style-sheets-logo-html-beautify-blue-angle-text-thumbnail.png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png'> </a>
